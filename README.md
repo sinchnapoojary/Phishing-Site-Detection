@@ -1,7 +1,3 @@
-Here is a draft README file for your project:
-
----
-
 # PhishAlert - Phishing Site Detection
 
 PhishAlert is a web application designed to detect phishing websites. The project leverages various techniques to identify and warn users about potential phishing threats. This application helps in enhancing security by analyzing URLs and providing real-time alerts.
