@@ -1,6 +1,6 @@
 # PhishAlert - Phishing Site Detection
 
-A phishing site detection which also allows to safely view the website without actually visiting it. Built using Python. With PhishAlert, you can quickly identify suspicious websites and protect from phishing attacks. Techniques for phishing detection include analyzing URL patterns, checking for known malicious domains, employing machine learning models to detect suspicious website features. Effective phishing detection helps protect users from cyber threats and enhances online security.
+A Phishing Site Detection which also allows to safely view the website without actually visiting it. Built using Python. With PhishAlert, you can quickly identify suspicious websites and protect from phishing attacks. Techniques for phishing detection include analyzing URL patterns, checking for known malicious domains, employing machine learning models to detect suspicious website features. Effective phishing detection helps protect users from cyber threats and enhances online security.
 
 ## Features
 
