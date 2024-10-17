@@ -27,7 +27,6 @@ PhishAlert is a web application designed to detect phishing websites. The projec
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/username/Phishing-Site-Detection.git
-    cd PhishAlert
     ```
     
 2. **Run the Application**:
