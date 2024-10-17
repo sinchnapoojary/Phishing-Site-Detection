@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}" />
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+
+    <title>PhishAlert</title>
+    <meta name="description" content="PhishAlert is a phishing domain detection tool created by Tech Phoenix. This allows you to safely view the website without visiting it.">
+    <meta name="og:title" property="og:title" content="PhishAlert by Tech Phoenix">
+    <meta name="keywords" content="PhishALert, phishing, Tech Phoenix">
+    <meta name="author" content="Tech Phoenix">
+    <meta name="robots" content="index, follow">
+
+</head>
+
+<body>
+
+    {% block content %}{% endblock %} {% if '/preview' not in request.path %}
+    
+    {% endif %}
+
+</body>
+
+</html>
